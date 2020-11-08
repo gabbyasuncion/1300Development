@@ -10,7 +10,7 @@
     "classnames": "^2.2.6",
     "prop-types-extra": "^1.1.1",
     "react": "^16.13.1",
-    "react-bootstrap": "^1.3.0",
+    "react-bootstrap": "file:node_modules/react-bootstrap",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
