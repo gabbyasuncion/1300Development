@@ -12,9 +12,9 @@ Get even more comfortable with React by creating your own shopping experience! Y
 
 
 ## Helpful Documents
-[Handout]
-[Gear Up Slides](https://docs.google.com/presentation/d/1QUx7LwQy3as03a41XyzZsWeldOgojkla/edit#slide=id.g9ff0dbe8ba_0_153)
-[Learn more about React](https://reactjs.org/docs/getting-started.html)
+- [Handout]
+- [Gear Up Slides](https://docs.google.com/presentation/d/1QUx7LwQy3as03a41XyzZsWeldOgojkla/edit#slide=id.g9ff0dbe8ba_0_153)
+- [Learn more about React](https://reactjs.org/docs/getting-started.html)
 
 
 
