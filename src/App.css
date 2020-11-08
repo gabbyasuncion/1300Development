@@ -1,0 +1,35 @@
+.app {
+  background-color: #d1edf2;
+  min-height: 100vh;
+}
+
+h1 {
+  padding: 10px 50px;
+}
+
+h3 {
+  padding: 20px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards-container {
+  width: 50vw;
+}
+
+.cart-container {
+  width: 40vw;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #007bff;
+}
+
+.cart {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
