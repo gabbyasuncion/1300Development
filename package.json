@@ -1,6 +1,9 @@
 {
   "name": "shopping-app",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.x"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -13,9 +16,6 @@
     "react-bootstrap": "file:node_modules/react-bootstrap",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
-  },
-  "engines" : { 
-    "node" : ">=0.12" 
   },
   "scripts": {
     "start": "react-scripts start",
