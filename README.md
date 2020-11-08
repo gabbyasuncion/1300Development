@@ -1,5 +1,5 @@
 # Development
-View our deployed app here: https://development-2020.herokuapp.com/
+View our TA example app here: https://development-2020.herokuapp.com/
 
 ## Overview
 Get even more comfortable with React by creating your own shopping experience! You can choose any theme for the site but it should be a basic implementation of an e-commerce interface. 
